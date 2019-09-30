@@ -1,5 +1,3 @@
-
-
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -16,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: WEBSITETITLE
-email: "EMAILADDRESS"
+title: GW0RHC
+email: "gw0rhc@gworhc.f9.co.uk"
 description: >- # this means to ignore newlines until "baseurl:"
   Peter Barnes
 #baseurl: "" # the subpath of your site, e.g. /blog
@@ -27,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 permalink: /:title
 
-repository: "pe5er/REPOSITORYNAME"
+repository: "pe5er/gw0rhc.wales"
 
 # Build settings
 plugins:
@@ -36,6 +34,8 @@ plugins:
 
 # A list of the pages to display in the navigation bar
 header_pages:
-  - PAGENAME.md
-  - PAGENAME2.md
+  - gallery.md
+  - news.md
+  - history.md
+  - contact.md
 
