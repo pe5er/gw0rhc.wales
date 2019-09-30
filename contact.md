@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Contact Me
 ---
 
-To get in touch with us, send an email to [hello@example.com](mailto:hello@example.com)
+Get in touch by sending me an email at [gw0rhc@gworhc.f9.co.uk](mailto:gw0rhc@gworhc.f9.co.uk)
