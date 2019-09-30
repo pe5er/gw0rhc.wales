@@ -1,7 +1,7 @@
 ---
-date: 2019-09-08
-draft: false
 title: Home
 ---
 
-Welcome to my website. Check out the links at the top of the page.
+This is the personal website of Ken GW0RHC
+
+![Contest Site](/media/Shack-Antenna-Superimposed.jpg "Contest Site")
